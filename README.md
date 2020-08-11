@@ -3,3 +3,5 @@
 Calculator: a text based calculator that does basic functions
 
 Matrix: a library of functions for performing matrix operations, meant to work with an UNO32 on coolterm, but will work for linux
+
+RPN: a text based calculator that utilizes the stack to calculate functions in Reverse Polish Notation
