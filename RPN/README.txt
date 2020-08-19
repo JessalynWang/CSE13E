@@ -1,5 +1,4 @@
-Jessalyn Wang
-jwang456
+Reverse Polish Notation Calculator
 
 Summary of lab: This lab was made to familiarize us with using the stack and passing by reference. It also allowed me learn how to use fgets, which I 
 have found I prefer to scanf. We also learned good error handling and how enum works, using constants defined in an enum to characterize errors within
